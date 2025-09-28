@@ -3,7 +3,7 @@
 🎓 MSCS @ Northeastern University (Boston)  
 💻 SWE | Full-Stack (MERN + Next.js + MUI) | AI/ML | C++ | Cloud (AWS)  
 🚀 Building scalable products, exploring AI/ML  
-📍 Boston, MA | [![LinkedIn](https://img.shields.io/badge/in-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-rituraj-1990511b2/)
+📍 Boston, MA | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-rituraj-1990511b2/)
 ---
 
 ## 🔧 Tech Stack
