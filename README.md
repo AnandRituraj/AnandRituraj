@@ -29,6 +29,7 @@
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 **AI / ML**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
