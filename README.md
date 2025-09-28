@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Anand 👋
 
-<!--
-**AnandRituraj/AnandRituraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSCS @ Northeastern University (Boston)  
+💻 SWE | Full-Stack (MERN + Next.js + MUI) | AI/ML | C++ | Cloud (AWS)  
+🚀 Building scalable products, exploring AI/ML, and preparing for PhD in AI/ML at MIT  
+📍 Boston, MA | 🌐 [LinkedIn](https://www.linkedin.com/in/anandrituraj/) | ✉️ [Email](mailto:youremail@domain.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: C++, Python, JavaScript/TypeScript, SQL  
+- **Full-Stack**: React, Next.js, Node.js, Express, MongoDB, Material-UI  
+- **AI/ML**: PyTorch, TensorFlow, Transformers, Scikit-learn  
+- **Cloud & DevOps**: AWS, Docker, GitHub Actions, Terraform  
+- **Other**: Git, REST APIs, CI/CD, Linux
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [CookItUp](https://github.com/AnandRituraj/cookitup)  
+*Recipe generator using AI APIs*  
+- Input ingredients → get personalized recipes  
+- Next.js frontend + API integrations  
+- Material UI design, mobile responsive  
+
+### 🔹 [MailMerge Pro](https://github.com/AnandRituraj/MailMerge-pro)  
+*Automated email generator with templates*  
+- Bulk sending with custom templates  
+- Node.js + Express backend  
+- Ready for SaaS scaling  
+
+### 🔹 [FIFA World Cup 2022 Prediction](https://github.com/AnandRituraj/FIFA_WORLDCUP_2022_PREDICTION)  
+*ML model predicting match outcomes*  
+- Clean Jupyter notebooks with analysis  
+- Metrics + model cards included  
+- Reproducible with `requirements.txt`  
+
+### 🔹 [Optimal Path Finder](https://github.com/AnandRituraj/Optimal_path_find_proj)  
+*C++ performance-oriented project*  
+- Graph algorithms and path optimization  
+- Emphasis on efficiency and benchmarking  
+- Shows system-level coding skills  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandRituraj&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandRituraj&layout=compact&theme=radical)
+
+---
+
+## 🌱 What I'm Working On
+- Mastering **DSA (C++)** for SWE & HFT interviews  
+- Building production-ready **MERN + Next.js apps**  
+- Advancing in **AI/ML + Deep Learning** projects  
+- Exploring **cloud infrastructure (AWS + Terraform + CI/CD)**
+
+---
+
+## 🤝 Let’s Connect
+💼 [LinkedIn](https://www.linkedin.com/in/anandrituraj/) | 🐦 [Twitter/X](https://twitter.com/) | ✉️ [Email](mailto:youremail@domain.com)
+
+---
+
+⭐️ *“Code. Research. Build. Repeat.”*
