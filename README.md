@@ -16,19 +16,19 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 [CookItUp](https://github.com/AnandRituraj/cookitup)  
-*Recipe generator using AI APIs*  
-- Input ingredients → get personalized recipes  
-- Next.js frontend + API integrations  
-- Material UI design, mobile responsive  
+## 📌 Featured Projects 
 
 ### 🔹 [MailMerge Pro](https://github.com/AnandRituraj/MailMerge-pro)  
 *Automated email generator with templates*  
 - Bulk sending with custom templates  
 - Node.js + Express backend  
-- Ready for SaaS scaling  
+- Ready for SaaS scaling
+
+### 🔹 [CookItUp](https://github.com/AnandRituraj/cookitup)  
+*Recipe generator using AI APIs*  
+- Input ingredients → get personalised recipes  
+- Next.js frontend + API integrations  
+- Material UI design, mobile responsive 
 
 ### 🔹 [FIFA World Cup 2022 Prediction](https://github.com/AnandRituraj/FIFA_WORLDCUP_2022_PREDICTION)  
 *ML model predicting match outcomes*  
@@ -38,7 +38,7 @@
 
 ### 🔹 [Optimal Path Finder](https://github.com/AnandRituraj/Optimal_path_find_proj)  
 *C++ performance-oriented project*  
-- Graph algorithms and path optimization  
+- Graph algorithms and path optimisation  
 - Emphasis on efficiency and benchmarking  
 - Shows system-level coding skills  
 
@@ -59,7 +59,7 @@
 ---
 
 ## 🤝 Let’s Connect
-💼 [LinkedIn](https://www.linkedin.com/in/anandrituraj/) | 🐦 [Twitter/X](https://twitter.com/) | ✉️ [Email](mailto:youremail@domain.com)
+💼 [LinkedIn](linkedin.com/in/anand-rituraj-1990511b2/)
 
 ---
 
