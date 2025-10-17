@@ -46,7 +46,6 @@
 ---
 
 ## 🌱 What I'm Working On
-- Mastering **DSA (C++)** for SWE & HFT interviews  
 - Building production-ready **MERN + Next.js apps**  
 - Advancing in **AI/ML + Deep Learning** projects  
 - Exploring **cloud infrastructure (AWS + Terraform + CI/CD)**
